@@ -1,0 +1,10 @@
+{
+  "name": "domain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lucas Toshio Löschner Fujiwara <lucastfujiwara@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
