@@ -1,7 +1,7 @@
 {
   "name": "domain",
   "version": "1.0.0",
-  "main": "src/index.ts",
+  "main": "src/types.ts",
   "author": "Lucas Toshio Löschner Fujiwara <lucastfujiwara@gmail.com>",
   "license": "MIT",
   "devDependencies": {
